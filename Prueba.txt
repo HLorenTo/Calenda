@@ -1,4 +1,4 @@
-descobar@precia.co
+
 
 
 import numpy as np
